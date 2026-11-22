@@ -227,3 +227,6 @@ associative.py
 associative2.py
 utils.py
 MemoryPatterns/
+
+# Data (downloaded datasets)
+data/
