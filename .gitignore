@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Old
+associative.py
+associative2.py
+utils.py
+MemoryPatterns/
